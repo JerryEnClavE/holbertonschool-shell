@@ -1,2 +1,2 @@
 #!/bin/bash
- mv [OPTION]... SOURCE... DIRECTORY
+ mv betty SOURCE /my_first_directory
